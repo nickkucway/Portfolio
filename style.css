@@ -1,3 +1,54 @@
+:root{
+    --green:#127e73;
+    --yellow:#d0aa21;
+    --black:#262626;
+    --offwhite: #fbf8ed;
+}
+
 html{
-    background-color: beige;
+    background-color: white;
+}
+
+.headsection{
+    background-color: var(--green);
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.headsection>h1{
+    font-size: 42px;
+}
+
+.headsection>a{
+	padding: 8px 10px;
+	background-color: var(--yellow);
+	border: none;
+	border-radius: 12px;
+	color: white;
+	cursor: pointer;
+    font-size: 24px;
+    margin: 10px 0;
+    font-family: 'Lexend', sans-serif;
+    text-decoration: none;
+}
+.project-left{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 48px;
+}
+.project-right{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 48px;
+}
+.card-content{
+    margin: 24px;
+    text-align: left;
 }

@@ -1,3 +1,89 @@
+:root{
+    --green:#127e73;
+    --yellow:#d0aa21;
+    --black:#262626;
+    --offwhite: #fbf8ed;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
 html{
-    background-color: aqua;
+    font-family: 'Lexend', sans-serif;
+    color: var(--black);
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+body{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    
+
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    padding: 8px;
+    position: sticky;
+}
+nav>a{
+    font-size: 36px;
+    text-decoration: none;
+    color: #373737;
+}
+nav>a>h1:hover{
+    color:black;
+}
+.nav-links>a{
+    margin: 0 8px;
+    text-decoration: none;
+    color: #373737;
+    font-size: 22px;
+}
+.nav-links>a:hover{
+    color: black;
+}
+.current-page{
+    font-weight: 600;
+}
+
+main{
+    text-align: center;
+    margin: 48px auto;
+    max-width: 1200px;
+    min-height: 80vh;
+
+}
+footer{
+    text-align: right;
+    background-color: #373737;
+    padding: 12px;
+    position: sticky;
+    bottom: 0px;
+}
+footer>a{
+    color: white;
+    padding: 0px 24px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+button {
+	padding: 8px 10px;
+	background-color: var(--yellow);
+	border: none;
+	border-radius: 12px;
+	color: white;
+	cursor: pointer;
+    font-size: 24px;
+    margin: 10px 0;
+    font-family: 'Lexend', sans-serif;
 }

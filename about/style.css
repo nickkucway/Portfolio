@@ -1,3 +1,14 @@
+:root{
+    --green:#127e73;
+    --yellow:#d0aa21;
+    --black:#262626;
+    --offwhite: #fbf8ed;
+}
+
 html{
-    background-color: orange;
+    background-color: white;
+}
+img{
+    border-radius: 50%;
+    width: 30vh;
 }
