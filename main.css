@@ -87,3 +87,9 @@ button {
     margin: 10px 0;
     font-family: 'Lexend', sans-serif;
 }
+@media (max-width: 500px) {
+
+    img{
+        width: 100%;
+    }
+  }

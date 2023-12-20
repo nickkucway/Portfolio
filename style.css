@@ -52,3 +52,23 @@ html{
     margin: 24px;
     text-align: left;
 }
+
+@media (max-width: 500px) {
+    .project-left{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 24px;
+    }
+    .project-right{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        margin: 24px;
+    }
+    img{
+        width: 100%;
+    }
+  }
