@@ -59,14 +59,14 @@ html{
         flex-direction: column;
         justify-content: space-evenly;
         align-items: center;
-        margin: 24px;
+        margin: 0px;
     }
     .project-right{
         display: flex;
         flex-direction: column;
         justify-content: space-evenly;
         align-items: center;
-        margin: 24px;
+        margin: 0px;
     }
     img{
         width: 100%;

@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./style.css">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <script src="../app.js" defer></script>
 </head>
 <body>
     <nav>
@@ -20,13 +21,20 @@
         </div>
     </nav>
     <main>
+    <div id="modal">
+        <div id="modal-container">
+            <img src="../images/NickKucwayResume.png" alt="resume">
+            <button id="close">Close</button>
+        </div>
+    </div>
+
     <h1>About Me</h1>
     <img src="../images/aboutpic.png" alt="About Me">
     <p>This is where the about me section will go. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices
        gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p>
     <!-- Requires JS code to open modal vvv -->
-       <button>Resume</button>
+       <button id="open-modal">Resume</button>
     </main>
     
     <footer>
