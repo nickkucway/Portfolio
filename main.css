@@ -87,9 +87,15 @@ button {
     margin: 10px 0;
     font-family: 'Lexend', sans-serif;
 }
+
+button:hover{
+    background-color: #c5a11f;
+}
 @media (max-width: 500px) {
 
     img{
         width: 100%;
     }
+
+
   }
