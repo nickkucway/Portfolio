@@ -10,6 +10,19 @@ This is my porfolio where I will show off my projects.
 
 <details>
 
+<summary>User Stories</summary>
+
+As a friend of Nick, I want to be able to check out his portfolio, see the projects he has made and play his games.
+
+As a recruiter, I want to be able to put a face to Nick's name, and get a feel for his own unique style choices.
+
+As an Project manager, I want to be able to see the scope of projects Nick has worked on & can handle.
+
+
+</details>
+
+<details>
+
 <summary>:art:WireFrames:art:</summary>
 
 ![homeprojpage](https://github.com/nickkucway/Portfolio/assets/152036965/42d0e269-4359-4423-bba5-9cf2dcfe1d89)
