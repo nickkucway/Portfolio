@@ -10,7 +10,7 @@ html{
 }
 
 .headsection{
-    background-image: url("../images/homebg.png");
+    background-image: url("./images/homebg.png");
     background-color: var(--green);
     height: 65vh;
     display: flex;
