@@ -22,9 +22,10 @@ This is my porfolio where I will show off my projects.
 <details>
 
 <summary>:desktop_computer:Finished Portfilio:desktop_computer:</summary>
-![Screenshot 2024-01-01 at 4 17 55 PM](https://github.com/nickkucway/Portfolio/assets/152036965/36d5956c-373a-40d2-aea8-4779e78f0cc1)
-![Screenshot 2024-01-01 at 4 18 05 PM](https://github.com/nickkucway/Portfolio/assets/152036965/2d4bd9a5-8119-4862-810e-87f23ff1eef6)
-![Screenshot 2024-01-01 at 4 18 18 PM](https://github.com/nickkucway/Portfolio/assets/152036965/dd9b5bfa-c6ff-472d-bd96-5a3144f8f5d1)
+
+![Screenshot 2024-01-01 at 4 17 55 PM](https://github.com/nickkucway/Portfolio/assets/152036965/0df79842-8198-4160-98c0-acba92af55d8)
+![Screenshot 2024-01-01 at 4 18 05 PM](https://github.com/nickkucway/Portfolio/assets/152036965/c8489a26-9084-4bd0-b24e-6355c3c8ca08)
+![Screenshot 2024-01-01 at 4 18 18 PM](https://github.com/nickkucway/Portfolio/assets/152036965/d34decae-63a2-409c-884a-2bcf8731e6bb)
 
 
 </details>
