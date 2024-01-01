@@ -10,13 +10,18 @@ html{
 }
 
 .headsection{
+    background-image: url("../images/homebg.png");
     background-color: var(--green);
-    height: 50vh;
+    height: 65vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     color: white;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .headsection>h1{
