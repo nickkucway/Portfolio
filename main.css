@@ -99,3 +99,6 @@ button:hover{
 
 
   }
+  .yellow{
+    color: var(--yellow);
+  }
