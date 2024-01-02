@@ -43,6 +43,15 @@ As an Project manager, I want to be able to see the scope of projects Nick has w
 
 </details>
 
+<details>
+
+<summary>:soon:Coming Next:soon:</summary>
+
+css transition animations, some kind of video background for home page.
+
+
+</details>
+
   ## :computer: Technologies Used
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
