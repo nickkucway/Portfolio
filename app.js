@@ -16,5 +16,3 @@ const closeModal = () => {
 openBtn.addEventListener('click', openModal)
 
 closeBtn.addEventListener('click', closeModal)
-
-console.log('swag')
