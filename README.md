@@ -45,6 +45,14 @@ As an Project manager, I want to be able to see the scope of projects Nick has w
 
 <details>
 
+<summary>Trouble Shooting</summary>
+
+Still have an issue with the page heights, want to have the footer stay at the bottom of the page
+
+</details>
+
+<details>
+
 <summary>:soon:Coming Next:soon:</summary>
 
 css transition animations, some kind of video background for home page.
